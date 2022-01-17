@@ -1,0 +1,26 @@
+/* .navbar{
+    background-color: #298A0b;
+} */
+
+.quem-somos{
+    background-color:#dddddd;
+}
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiros{
+    background-color: #677e60;
+}
+
+.js, .cs, .bt, .gt, .gh, .ht, .re, .st, .ts {
+    width: 70px;
+    height: 60px;
+    margin-bottom: 30px;
+}
+
+.bg-footer{
+    background-color: #000;
+    color:#fff;
+}
